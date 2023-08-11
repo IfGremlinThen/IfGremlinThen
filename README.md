@@ -9,6 +9,6 @@ I write quality-of-life shell scripts for use in Linux.
 
 
  **Tools I Use**\
-<a href="https://github.com/atom/atom">Atom</a>\
+<a href="https://github.com/atom/atom">atom</a>\
 <a href="https://github.com/lencx/ChatGPT">ChatGPT</a>\
 <a href="https://github.com/koalaman/shellcheck">shellcheck</a>
