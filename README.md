@@ -1,4 +1,4 @@
-<img align="right" height="175px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifgremlinthen&layout=compact&theme=vision-friendly-dark"/>
+<img align="right" height="160px" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifgremlinthen&layout=compact&theme=vision-friendly-dark"/>
 
 **<a href="https://github.com/IfGremlinThen/DesktopCleanup.sh">DesktopCleanup.sh</a>**, a desktop organizing script that automates itself as a `crontab` job.  
 **<a href="https://github.com/IfGremlinThen/Elixir.sh">Elixir.sh</a>**, a one-touch cleanup script that frees up system resources in a pinch.  
