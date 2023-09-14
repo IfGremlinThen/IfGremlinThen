@@ -1,4 +1,4 @@
-<img align="right" height="150px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifgremlinthen&layout=compact&theme=vision-friendly-dark"/>
+<img align="right" height="175px" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifgremlinthen&layout=compact&theme=vision-friendly-dark"/>
 
 - **<a href="https://github.com/IfGremlinThen/DesktopCleanup.sh">DesktopCleanup.sh</a>**, a desktop organizing script that automates itself as a `crontab` job.
 
