@@ -1,5 +1,5 @@
 I write quality-of-life shell scripts for use in Linux.
-<img align="left" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifgremlinthen&layout=compact&theme=vision-friendly-dark"/>
+<img align="right" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifgremlinthen&layout=compact&theme=vision-friendly-dark"/>
 
 ### My main projects include:
 - **<a href="https://github.com/IfGremlinThen/DesktopCleanup.sh">DesktopCleanup.sh</a>**, a desktop organizing script that automates itself as a `crontab` job.
