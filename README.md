@@ -1,4 +1,4 @@
-I daily drive **Linux Mint**🍃 & **Linux Mint: Debian Edition**🍃.
+I daily drive **Linux Mint** & **Linux Mint: Debian Edition**. 🍃
 
 ##
 **Main Projects:**\
