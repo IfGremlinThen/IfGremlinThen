@@ -12,3 +12,5 @@ I daily drive **Linux Mint** & **Linux Mint: Debian Edition**. 🍃
 <a href="https://github.com/koalaman/shellcheck">shellcheck</a>
 
 <div align="center"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"></div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgremlinthen&layout=compact)
