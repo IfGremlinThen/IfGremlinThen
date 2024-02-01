@@ -1,5 +1,7 @@
 I daily drive **Linux Mint** & **Linux Mint: Debian Edition**. 🍃
 
+Experience in **HTML**, **CSS**, & **Bash**.
+
 ##
 **Main Projects:**\
 **<a href="https://github.com/IfGremlinThen/DesktopCleanup.sh">DesktopCleanup.sh</a>**, a desktop organizing script that automates itself as a `crontab` job.  
