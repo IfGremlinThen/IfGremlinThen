@@ -5,7 +5,7 @@ Experience in **HTML**, **CSS**, & **Bash**.
 ##
 **Desktop Projects:**\
 **<a href="https://github.com/IfGremlinThen/DesktopCleanup.sh">DesktopCleanup.sh</a>**, a desktop organizing script that automates itself as a `crontab` job.\
-**<a href="https://github.com/IfGremlinThen/Elixir.sh">Elixir.sh</a>**, a one-touch cleanup script that frees up system resources in a pinch.
+**<a href="https://github.com/IfGremlinThen/Elixir.sh">Elixir.sh</a>**, a one-touch cleanup script that frees up system resources in a pinch.\
 **<a href="https://github.com/IfGremlinThen/Links.sh">Links.sh</a>**, a script which creates a folder full of convenient symlinks.
 ##
 **Game Mods/Patches:**\
