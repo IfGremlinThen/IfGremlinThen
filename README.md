@@ -9,7 +9,7 @@ Experience in **HTML**, **CSS**, & **Bash**.
 **<a href="https://github.com/IfGremlinThen/Links.sh">Links.sh</a>**, a script which creates a folder full of convenient symlinks.
 ##
 **Game Mods/Patches:**\
-**<a href="https://github.com/IfGremlinThen/BDPopEdit.sh">BDPopEdit.sh</a>**, a CLI save-editor for editing your Norende Village population in Bravely Default (`citra`).\
+**<a href="https://github.com/IfGremlinThen/BravelyEdit.sh">BravelyEdit.sh</a>**, a CLI save-editor for editing your Norende Village population in Bravely Default (`citra`).\
 **<a href="https://github.com/IfGremlinThen/CustomPatches">CustomPatches</a>**, miscellaneous patches I've put together for different games.
 ##
 **Tools I Use:**  
