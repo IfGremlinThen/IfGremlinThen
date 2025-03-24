@@ -10,9 +10,7 @@ Experience in **HTML**, **CSS**, & **Bash**.
 ##
 **Game Mods/Patches:**\
 **<a href="https://github.com/IfGremlinThen/BravelyEdit.sh">BravelyEdit.sh</a>**, a CLI save-editor for editing your Norende Village population in **Bravely Default** (`citra`).\
-**<a href="
-https://github.com/IfGremlinThen/DN3DRebalance">DN3DRebalance</a>**, rebalancged .CON files for **Duke Nukem 3D**.\
-
+**<a href="https://github.com/IfGremlinThen/DN3DRebalance">DN3DRebalance</a>**, rebalancged .CON files for **Duke Nukem 3D**.\
 **<a href="https://github.com/IfGremlinThen/CustomPatches">CustomPatches</a>**, miscellaneous patches I've put together for different games.
 ##
 **Tools I Use:**  
