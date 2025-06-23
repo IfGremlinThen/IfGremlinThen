@@ -13,6 +13,9 @@ Experience in **HTML**, **CSS**, & **Bash**.
 **<a href="https://github.com/IfGremlinThen/DN3DRebalance">DN3DRebalance</a>**, rebalanced .CON files for **Duke Nukem 3D**.\
 **<a href="https://github.com/IfGremlinThen/CustomPatches">CustomPatches</a>**, miscellaneous patches I've put together for different games.
 ##
+**Forks:**\
+**<a href="https://github.com/IfGremlinThen/powerline-shell">Powerline-Shell</a>**, a popular python cosmetic for your terminal, made portable.
+##
 **Tools I Use:**  
 <a href="https://github.com/atom/atom">atom</a>  
 <a href="https://github.com/lencx/ChatGPT">ChatGPT</a>  
