@@ -17,8 +17,8 @@ Experience in **HTML**, **CSS**, & **Bash**.
 **<a href="https://github.com/IfGremlinThen/powerline-shell">Powerline-Shell</a>**, a popular python cosmetic for your terminal, made portable.
 ##
 **Tools I Use:**  
-~~<a href="https://github.com/atom/atom">atom</a>~~ <a href="https://github.com/pulsar-edit/pulsar">pulsar</a>
-<a href="https://github.com/lencx/ChatGPT">ChatGPT</a>  
+~~atom~~ <a href="https://github.com/pulsar-edit/pulsar">pulsar</a>\
+<a href="https://github.com/lencx/ChatGPT">ChatGPT</a>\
 <a href="https://github.com/koalaman/shellcheck">shellcheck</a>
 
 <div align="center" background: green;><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifgremlinthen&layout=compact&theme=transparent"></div>
